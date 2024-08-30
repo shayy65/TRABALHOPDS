@@ -1,0 +1,30 @@
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\bin\Debug\net6.0\API 2° Bimestre.exe
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\bin\Debug\net6.0\API 2° Bimestre.deps.json
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\bin\Debug\net6.0\API 2° Bimestre.runtimeconfig.json
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\bin\Debug\net6.0\API 2° Bimestre.dll
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\bin\Debug\net6.0\API 2° Bimestre.pdb
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.csproj.AssemblyReference.cache
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.AssemblyInfoInputs.cache
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.AssemblyInfo.cs
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\staticwebassets\msbuild.API 2° Bimestre.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\staticwebassets\msbuild.build.API 2° Bimestre.props
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API 2° Bimestre.props
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API 2° Bimestre.props
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\scopedcss\bundle\API 2° Bimestre.styles.css
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.csproj.CopyComplete
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.dll
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\refint\API 2° Bimestre.dll
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.pdb
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\API 2° Bimestre.genruntimeconfig.cache
+C:\Users\2022102020081.IFRO\source\repos\API 2° Bimestre\API 2° Bimestre\obj\Debug\net6.0\ref\API 2° Bimestre.dll
